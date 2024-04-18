@@ -1,3 +1,7 @@
+#! /usr/bin/env node 
+
+
+
 import { log } from "console"
 import inquirer from "inquirer"
 
