@@ -1,6 +1,6 @@
 {
   "name": "@kulsoomkhan/currency_converter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "type": "module",
@@ -15,7 +15,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@kulsoomkhan/currency_converter": "^1.0.1",
+    "@kulsoomkhan/currency_converter": "^1.0.2",
     "inquirer": "^9.2.17"
   },
   "devDependencies": {
